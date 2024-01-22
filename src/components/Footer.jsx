@@ -36,7 +36,7 @@ function Footer () {
         </div>
         <div className={styles.footer__column}>
           <h3 className={styles.title}>follow us</h3>
-          <a href='#' className={styles.footer__link}>
+          <a href='https://twitter.com/tweeps_2024' className={styles.footer__link}>
             Twitter
           </a>
           <a href='#' className={styles.footer__link}>
