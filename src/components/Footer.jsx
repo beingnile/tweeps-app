@@ -39,7 +39,7 @@ function Footer () {
           <a href='https://twitter.com/tweeps_2024' className={styles.footer__link}>
             Twitter
           </a>
-          <a href='#' className={styles.footer__link}>
+          <a href='https://www.instagram.com/tweeps_fastfood' className={styles.footer__link}>
             Instagram
           </a>
           <a href='#' className={styles.footer__link}>
