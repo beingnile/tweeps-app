@@ -20,7 +20,7 @@ const sliderItems = [
     title: 'HD',
     subtitle: 'Customly made for you',
     description:
-      'Imagine a smocha that goes to the gym. This combines tasty kebabs with some chapatis to leave you satisfied.',
+      'Imagine a smocha that goes to the gym. This combines tasty kebabs with some chapatis to leave you satisfied. #ComradeAfurahi',
     img: 'images/home-img-3.png'
   }
 ];
