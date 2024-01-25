@@ -5,7 +5,7 @@ const menuDishList = [
     img: 'images/menu-2.jpg',
     rating: 4,
     description:
-      'Lorem ipsum dolor sit, amet consectetur adpisicing elit. Excepturi, accusantium.',
+      'Some juicy, dripping meat patties between buns.',
     price: 60.00
   },
   {
@@ -14,7 +14,7 @@ const menuDishList = [
     img: 'images/menu-1.jpg',
     rating: 4,
     description:
-      'Lorem ipsum dolor sit, amet consectetur adpisicing elit. Excepturi, accusantium.',
+      'Crispy, crunchy beef kebabs served with cold kachumbari.',
     price: 40.00
   },
   {
@@ -23,7 +23,7 @@ const menuDishList = [
     img: 'images/menu-3.jpg',
     rating: 4,
     description:
-      'Lorem ipsum dolor sit, amet consectetur adpisicing elit. Excepturi, accusantium.',
+      'Smokie with a chapati hoodie stuffed with kachumbari and some choma sauce to taste. #SmochapaiiFahm',
     price: 60.00
   },
   {
