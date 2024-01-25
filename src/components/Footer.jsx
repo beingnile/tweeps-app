@@ -12,16 +12,16 @@ function Footer () {
         </div>
         <div className={styles.footer__column}>
           <h3 className={styles.title}>Quick links</h3>
-          <a href='#' className={styles.footer__link}>
+          <a href='#home' className={styles.footer__link}>
             Home
           </a>
-          <a href='#' className={styles.footer__link}>
+          <a href='#menu' className={styles.footer__link}>
             Menu
           </a>
-          <a href='#' className={styles.footer__link}>
+          <a href='#about' className={styles.footer__link}>
             About
           </a>
-          <a href='#' className={styles.footer__link}>
+          <a href='#reviews' className={styles.footer__link}>
             Reviews
           </a>
         </div>

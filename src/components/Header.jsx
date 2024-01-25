@@ -48,7 +48,7 @@ function Header () {
   return (
     <header className={styles.header}>
       <a href='#' className={styles.header__logo}>
-		 <img src={process.env.PUBLIC_URL + '/images/tweeps-logo.jpg'} alt="Tweeps Logo" />
+		 <span className='fas fa-utensils' />
      </a>
       <nav
         id='nav'
