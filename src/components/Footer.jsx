@@ -42,7 +42,7 @@ function Footer () {
           <a href='https://www.instagram.com/tweeps_fastfood' className={styles.footer__link}>
             Instagram
           </a>
-          <a href='#' className={styles.footer__link}>
+          <a href='https://chat.whatsapp.com/FwbHnAsSLBxHRFtIdGds2t' className={styles.footer__link}>
             WhatsApp
           </a>
         </div>
