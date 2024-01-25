@@ -32,7 +32,7 @@ const menuDishList = [
     img: 'images/menu-4.jpg',
     rating: 4,
     description:
-      'Lorem ipsum dolor sit, amet consectetur adpisicing elit. Excepturi, accusantium.',
+      'Looking for a tasty nutrious refreshment? Get a smoothie of your choice from our arsenal of flavours.',
     price: 12.99
   },
   {
@@ -41,7 +41,7 @@ const menuDishList = [
     img: 'images/menu-5.jpg',
     rating: 4,
     description:
-      'Lorem ipsum dolor sit, amet consectetur adpisicing elit. Excepturi, accusantium.',
+      'Yawning for some ice cold feeling down your thirsty throat? A milkshake will dry out your sweat #MAMBOVULAI.',
     price: 12.99
   },
   {
