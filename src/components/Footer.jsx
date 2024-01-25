@@ -27,10 +27,10 @@ function Footer () {
         </div>
         <div className={styles.footer__column}>
           <h3 className={styles.title}>Contact info</h3>
-          <a href='#' className={styles.footer__link}>
+          <a href='tel:+254794008600' className={styles.footer__link}>
             +254794008600
           </a>
-          <a href='#' className={styles.footer__link}>
+          <a href='tel:+254705704788' className={styles.footer__link}>
             +254705704788
           </a>
         </div>
