@@ -47,9 +47,8 @@ function Header () {
 
   return (
     <header className={styles.header}>
-      <a href='#' className={styles.header__logo}>
-		 <span className='fas fa-utensils' />
-     </a>
+      <img src='/images/svg-logo.svg' alt="logo" className={styles.header__logo}>
+      </img>
       <nav
         id='nav'
         className={classNames(styles.header__nav, {
