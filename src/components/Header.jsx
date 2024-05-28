@@ -65,7 +65,7 @@ function Header () {
               })}
               onClick={onMenuClick}
             >
-              {item.name}
+              {item.name.charAt(0).toUpperCase() + item.name.slice(1)}
             </a>
           );
         })}
