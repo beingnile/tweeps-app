@@ -8,7 +8,7 @@ function About () {
 
       <div className={styles.about__row}>
         <div className={styles.about__image}>
-          <img src='/images/about-img.png' alt='' />
+          <img src='/images/about-img.JPG' alt='' />
         </div>
 
         <div className={styles.about__content}>

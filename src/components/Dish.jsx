@@ -1,4 +1,3 @@
-import Stars from './StarRating';
 import classNames from 'classnames';
 import styles from '../styles/components/Dish.module.scss';
 
@@ -12,8 +11,7 @@ function Dish ({ title, img, rating, price, description}) {
           <p className={styles.dish__description}>{description}</p>
           )
         : null}
-      <Stars value={rating} />
-      <span className={styles.dish__price}>{`$${price}`}</span>
+      <span className={styles.dish__price}>{`Ksh${price}`}</span>
     </div>
   );
 }

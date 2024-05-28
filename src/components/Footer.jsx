@@ -48,14 +48,7 @@ function Footer () {
         </div>
       </div>
       <div className={styles.footer__credit}>
-        Copyright @ 2024 by{' '}
-        <a
-          target='_blank'
-          rel='noreferrer'
-          href='#'
-        >
-          Tweeps
-        </a>
+        Copyright @ 2024 by {'Tweeps™'}
       </div>
     </footer>
   );

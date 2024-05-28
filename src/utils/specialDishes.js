@@ -5,7 +5,7 @@ const sliderItems = [
     subtitle: 'Our top pick',
     description:
       'Man shall not live on burgers alone. Get yourself some saucy, savory, double buns with a patty in between that will leave you drooling for more.',
-    img: 'images/tweeps-burger.jpeg'
+    img: 'images/tweeps-burger.JPG'
   },
   {
     id: '2',

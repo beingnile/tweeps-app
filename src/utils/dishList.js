@@ -5,7 +5,8 @@ const dishList = [
     img: 'images/dish-1.png',
     rating: '4.5',
     favorited: true,
-    price: '60.00'
+    price: '60.00',
+	description: 'Test drive'
   },
   {
     id: 2,

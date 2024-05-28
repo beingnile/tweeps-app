@@ -4,9 +4,9 @@
 :root {
   --white: #fff;
   --grey: #eee;
-  --light-color: #666;
-  --black: #7D7E79;
-  --green: #D19A64;
+  --light-color: #3F1807;
+  --black: #3F1807;
+  --green: #F2AE27;
   --box-shadow: 0 0.5rem 1.5rem rgba(0, 0, 0, 0.1);
   --transition: all 0.2s linear;
 }
@@ -21,6 +21,10 @@
   outline: none;
   border: none;
   text-transform: capitalize;
+}
+
+body::-webkit-scrollbar {
+  display: none;
 }
 
 html {
@@ -40,6 +44,7 @@ html {
 }
 
 section {
+  border-radius: 25px;
   padding: 2rem;
 
   &:nth-child(even) {
