@@ -14,12 +14,12 @@ function About () {
         <div className={styles.about__content}>
           <h3 className={styles.about__title}>best food in the area</h3>
           <p className={styles.about__description}>
-            Have you been served yet? At Tweeps we make sure you leave the stall satisfied. You get top notch snacks and dishes at sweet prices.
+            At Tweeps, you get top notch snacks and dishes at sweet prices.
           </p>
           <p className={styles.about__description}>
-            At Tweeps you get a mouthful of tasty bites and smiles. Visit us today for endless vibes and inshallah. #GrillsHotAt420.
+            Your satisfaction is our priority.
           </p>
-          <a href='#' className='button'>
+          <a href='https://www.instagram.com/tweeps_fastfood' className='button'>
             learn more
           </a>
         </div>
