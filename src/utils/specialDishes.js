@@ -4,7 +4,7 @@ const sliderItems = [
     title: 'Burger',
     subtitle: 'Our top pick',
     description:
-      'Man shall not live on burgers alone. Get yourself some saucy, savory, double buns with a patty in between that will leave you drooling for more.',
+      'An explosion of savory sweetness from that juicy meat patty between buns, topped with a blend of garnished onions, mustard and mayonnaise sources. Try one today for a mouth watering experience.',
     img: 'images/tweeps-burger.JPG'
   },
   {
@@ -12,16 +12,24 @@ const sliderItems = [
     title: 'Smocha',
     subtitle: 'Comrades favorite',
     description:
-      'Do you fancy some chapaaii fahm? With a smokie rolled in it, innit fahm?',
-    img: 'images/home-img-2.png'
+      'Fancy that smokie tucked in a chapaaii, fahm, innit? Say no more, grab a smocha now!',
+    img: 'images/smocha.jpg'
   },
   {
     id: '3',
-    title: 'HD',
-    subtitle: 'Customly made for you',
+    title: 'Bhajia',
+    subtitle: 'Genuinely made for you',
     description:
-      'Imagine a smocha that goes to the gym. This combines tasty kebabs with some chapatis to leave you satisfied. #ComradeAfurahi',
-    img: 'images/home-img-3.png'
+      'Tired of common yellow coated bhajia? Try our unique touch of bhajia garnished with gravy browning and coriander, topped up with kachumbari.',
+    img: 'images/bhajia.jpg'
+  },
+  {
+    id: '4',
+    title: 'Refreshments',
+    subtitle: 'Ni kuwakunywa tu',
+    description:
+      'Man shall not live on burgers alone. You need a drink to accompany your meals and we got you. Place an order of your choice from our arsenal of drinks. Coffee, Fresh Juice, Smoothies, Milkshakes, you name it!',
+    img: 'images/burger-juice.JPG'
   }
 ];
 
