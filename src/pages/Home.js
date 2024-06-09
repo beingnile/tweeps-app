@@ -11,10 +11,10 @@ export default function Home () {
   return (
     <div className={styles.container}>
       <Helmet>
-        <title>Tweeps fastfoods</title>
+        <title>Tweeps fastfoods: Have you been served yet?</title>
         <meta
           name='description'
-          content='Tweeps landing page'
+          content='At Tweeps™ fastfoods, our customers always leave the stalls satisfied. Grab a bite with us today!'
         />
         <link rel='icon' href='/favicon.ico' />
       </Helmet>

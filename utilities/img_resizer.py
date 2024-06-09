@@ -28,7 +28,7 @@ def resize_with_padding(image_path, output_path, target_size):
         img = img.resize((new_width, new_height), Image.LANCZOS)
         mask = Image.new("L", (new_width, new_height), 0)
         draw = ImageDraw.Draw(mask)
-        draw.rounded_rectangle([0, 0, new_width, new_height], radius=100, fill=255)
+        draw.rounded_rectangle([0, 0, new_width, new_height], radius=25, fill=255)
 
         img.putalpha(mask)
 

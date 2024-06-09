@@ -7,7 +7,7 @@ const menuItems = [
   },
   {
     id: 2,
-    name: 'dishes',
+    name: 'specials',
     href: '#dishes',
     active: false
   },

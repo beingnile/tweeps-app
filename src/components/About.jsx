@@ -8,13 +8,13 @@ function About () {
 
       <div className={styles.about__row}>
         <div className={styles.about__image}>
-          <img src='/images/about-img.JPG' alt='' />
+          <img src='/images/about-lawson.jpg' alt='Tweeps staff' />
         </div>
 
         <div className={styles.about__content}>
           <h3 className={styles.about__title}>best food in the area</h3>
           <p className={styles.about__description}>
-            Food is what brings people together. At Tweeps, we ensure top-notch customer service and also get to know each other not only as customers but also as a network, building a sense of family.
+            Food is what brings people together. At Tweeps™, we ensure top-notch customer service and also get to know each other not only as customers but also as a network, building a sense of family.
           </p>
           <p className={styles.about__description}>
             Our focus is on creating good moments. At Tweeps™ fast food kitchen, we achieve this by offering a variety of nutritious meals at affordable prices. We infuse an African touch into our recipes, menu, and spices, embracing a natural feeling in our delicacies.

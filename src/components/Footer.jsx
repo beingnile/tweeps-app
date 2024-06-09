@@ -6,7 +6,10 @@ function Footer () {
       <div className={styles.footer__container}>
         <div className={styles.footer__column}>
           <h3 className={styles.title}>Locations</h3>
-          <a href='#' className={styles.footer__link}>
+          <a href='https://maps.app.goo.gl/FFR5MHwjt8j5Sows9' className={styles.footer__link}>
+            Pressy Building Shop No.27, Baraton, Kenya
+          </a>
+          <a href='https://maps.app.goo.gl/zGhTqRgZxe7SJcA57' className={styles.footer__link}>
             Moiben plaza, Baraton, Kenya
           </a>
         </div>

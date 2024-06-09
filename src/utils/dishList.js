@@ -1,52 +1,51 @@
 const dishList = [
   {
     id: 1,
-    title: 'Burger',
-    img: 'images/dish-1.png',
-    rating: '4.5',
+    title: 'Egg Burger',
+    img: 'images/burger-special.png',
+    rating: '5',
     favorited: true,
-    price: '60.00',
-	description: 'Test drive'
+    price: '110.00',
   },
   {
     id: 2,
-    title: 'Kebab',
-    img: 'images/dish-2.png',
-    rating: '4.5',
+    title: 'Mango juice',
+    img: 'images/mango-juice.png',
+    rating: '4',
     favorited: true,
-    price: '40.00'
+    price: '60.00'
   },
   {
     id: 3,
-    title: 'Smocha',
-    img: 'images/dish-3.png',
-    rating: '4.5',
+    title: 'Burger Combo',
+    img: 'images/burger-combo.png',
+    rating: '5',
     favorited: true,
-    price: '60.00'
+    price: '110.00'
   },
   {
     id: 4,
-    title: 'HD',
-    img: 'images/dish-4.png',
-    rating: '4.5',
+    title: 'Beef Kebab',
+    img: 'images/beef-kebab.png',
+    rating: '4',
     favorited: true,
-    price: '40.00'
+    price: '50.00'
   },
   {
     id: 5,
-    title: 'Smokie',
-    img: 'images/dish-5.png',
-    rating: '4.5',
+    title: 'Cheese Burger',
+    img: 'images/cheese-burger.png',
+    rating: '4',
     favorited: true,
-    price: '25.00'
+    price: '120.00'
   },
   {
     id: 6,
-    title: 'Smoothie',
-    img: 'images/dish-6.png',
-    rating: '4.5',
+    title: 'Matoke',
+    img: 'images/matoke.png',
+    rating: '3',
     favorited: true,
-    price: '60.00'
+    price: '50.00'
   }
 ];
 

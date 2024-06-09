@@ -1,84 +1,93 @@
 const menuDishList = [
   {
     id: 1,
-    title: 'Burger',
-    img: 'images/menu-2.jpg',
+    title: 'Samosas',
+    img: 'images/menu-samosa.png',
     rating: 4,
     description:
-      'Some juicy, dripping meat patties between buns.',
-    price: 60.00
+      'Samosa or Sambusa all the same, and we’ve gat beef ones. Dig in as you wait for that burger.',
+    price: '25.00'
   },
   {
     id: 2,
-    title: 'Kebab',
-    img: 'images/menu-1.jpg',
+    title: 'Kebabs',
+    img: 'images/menu-kebab.png',
     rating: 4,
     description:
-      'Crispy, crunchy beef kebabs served with cold kachumbari.',
-    price: 40.00
+      'Try out our beef kebab coated with a golden touch of eggs. Crunchy or soft, we gat you covered.',
+    price: '50.00'
   },
   {
     id: 3,
-    title: 'Smocha',
-    img: 'images/menu-3.jpg',
+    title: 'Mango x Tamarillo',
+    img: 'images/mango-tamarillo.png',
     rating: 4,
     description:
-      'Smokie with a chapati hoodie stuffed with kachumbari and some choma sauce to taste. #SmochapaiiFahm',
-    price: 60.00
+      'Accompany your kebabs with a refreshing mix of mango and tamarillo juice.',
+    price: '60.00'
   },
   {
     id: 4,
     title: 'Smoothie',
-    img: 'images/menu-4.jpg',
+    img: 'images/smoothie.png',
     rating: 4,
     description:
       'Looking for a tasty nutrious refreshment? Get a smoothie of your choice from our arsenal of flavours.',
-    price: 12.99
+    price: '70.00'
   },
   {
     id: 5,
     title: 'Milkshake',
-    img: 'images/menu-5.jpg',
+    img: 'images/milkshake.png',
     rating: 4,
     description:
       'Yawning for some ice cold feeling down your thirsty throat? A milkshake will dry out your sweat #MAMBOVULAI.',
-    price: 12.99
+    price: '70.00'
   },
   {
     id: 6,
-    title: 'Samosa',
-    img: 'images/menu-6.jpg',
+    title: 'Mango x Pineapple',
+    img: 'images/mango-pineapple.png',
     rating: 4,
     description:
-      'Lorem ipsum dolor sit, amet consectetur adpisicing elit. Excepturi, accusantium.',
-    price: 12.99
+      'Try one of our most loved cocktails for its soothing feel behind the throat.',
+    price: '60.00'
   },
   {
     id: 7,
-    title: 'Hotdog',
-    img: 'images/menu-7.jpg',
-    rating: 4,
+    title: 'Matoke',
+    img: 'images/menu-matoke.png',
+    rating: 3,
     description:
-      'Lorem ipsum dolor sit, amet consectetur adpisicing elit. Excepturi, accusantium.',
-    price: 12.99
+      'Taking you back to Gusii land, buy a hearty matoke meal today.',
+    price: "50.00"
   },
   {
     id: 8,
-    title: 'Coffee',
-    img: 'images/menu-8.jpg',
+    title: 'Bhajia',
+    img: 'images/menu-bhajia.png',
     rating: 4,
     description:
-      'Lorem ipsum dolor sit, amet consectetur adpisicing elit. Excepturi, accusantium.',
-    price: 12.99
+      'Have a bite on one of the highly rated foods from Tweeps™ and you will want to come back for more bhajia.',
+    price: '100.00'
   },
   {
     id: 9,
-    title: 'Group deal',
-    img: 'images/menu-9.jpg',
+    title: 'Burgers',
+    img: 'images/menu-burger.png',
+    rating: 5,
+    description:
+      'Its giving Burger King but affordable.',
+    price: '70.00 - 120.00'
+  },
+  {
+    id: 10,
+    title: 'Double Munchies',
+    img: 'images/menu-munchies.png',
     rating: 4,
     description:
-      'Lorem ipsum dolor sit, amet consectetur adpisicing elit. Excepturi, accusantium.',
-    price: 12.99
+      '2 Beef burgers, 2 smoothies of choice and 2 Smokies.',
+    price: '339.00'
   }
 ];
 
